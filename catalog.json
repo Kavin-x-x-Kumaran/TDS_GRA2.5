@@ -3,6 +3,28 @@
     "email": "24f2003806@ds.study.iitm.ac.in",
     "version": "958e8073"
   },
+  "aggregations": {
+    "clothing": {
+      "count": 4,
+      "inventoryValue": 112473.77
+    },
+    "home": {
+      "count": 6,
+      "inventoryValue": 85760.38
+    },
+    "electronics": {
+      "count": 4,
+      "inventoryValue": 60916.12
+    },
+    "books": {
+      "count": 3,
+      "inventoryValue": 87516.38
+    },
+    "sports": {
+      "count": 2,
+      "inventoryValue": 69812.04
+    }
+  },
   "products": [
     { "id": "prod-958e8073-001", "name": "Standard Item 1", "category": "clothing", "price": 456.77, "stock": 100, "rating": 2.7 },
     { "id": "prod-958e8073-002", "name": "Elite Item 2", "category": "home", "price": 77.35, "stock": 140, "rating": 1.6 },
@@ -24,28 +46,5 @@
     { "id": "prod-958e8073-018", "name": "Standard Item 18", "category": "electronics", "price": 132.68, "stock": 77, "rating": 4.6 },
     { "id": "prod-958e8073-019", "name": "Pro Item 19", "category": "clothing", "price": 193.06, "stock": 177, "rating": 4.1 },
     { "id": "prod-958e8073-020", "name": "Basic Item 20", "category": "sports", "price": 328.44, "stock": 186, "rating": 2.2 }
-  ],
-  "aggregations": {
-    "clothing": {
-      "count": 4,
-      "inventoryValue": 112473.77
-    },
-    "home": {
-      "count": 7,
-      "inventoryValue": 81525.04
-    },
-    "electronics": {
-      "count": 4,
-      "inventoryValue": 60915.12
-    },
-    "books": {
-      "count": 3,
-      "inventoryValue": 87516.38
-    },
-    "sports": {
-      "count": 2,
-      "inventoryValue": 69812.04
-    }
-  }
+  ]
 }
-  
