@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "email": "24f2003806@ds.study.iitm.ac.in",
+    "version": "958e8073"
+  },
+  "products": [
+    { "id": "prod-958e8073-001", "name": "Standard Item 1", "category": "clothing", "price": 456.77, "stock": 100, "rating": 2.7 },
+    { "id": "prod-958e8073-002", "name": "Elite Item 2", "category": "home", "price": 77.35, "stock": 140, "rating": 1.6 },
+    { "id": "prod-958e8073-003", "name": "Premium Item 3", "category": "home", "price": 308.84, "stock": 77, "rating": 2.7 },
+    { "id": "prod-958e8073-004", "name": "Standard Item 4", "category": "electronics", "price": 170.24, "stock": 130, "rating": 3.7 },
+    { "id": "prod-958e8073-005", "name": "Elite Item 5", "category": "electronics", "price": 296.4, "stock": 90, "rating": 4.7 },
+    { "id": "prod-958e8073-006", "name": "Pro Item 6", "category": "electronics", "price": 23.08, "stock": 82, "rating": 3.8 },
+    { "id": "prod-958e8073-007", "name": "Elite Item 7", "category": "home", "price": 68.72, "stock": 142, "rating": 3.4 },
+    { "id": "prod-958e8073-008", "name": "Premium Item 8", "category": "home", "price": 320.92, "stock": 18, "rating": 4.6 },
+    { "id": "prod-958e8073-009", "name": "Pro Item 9", "category": "books", "price": 33.55, "stock": 130, "rating": 1.6 },
+    { "id": "prod-958e8073-010", "name": "Elite Item 10", "category": "sports", "price": 290.74, "stock": 30, "rating": 3.5 },
+    { "id": "prod-958e8073-011", "name": "Standard Item 11", "category": "clothing", "price": 42.83, "stock": 177, "rating": 4.7 },
+    { "id": "prod-958e8073-012", "name": "Elite Item 12", "category": "clothing", "price": 362.96, "stock": 69, "rating": 3.8 },
+    { "id": "prod-958e8073-013", "name": "Elite Item 13", "category": "home", "price": 158.45, "stock": 46, "rating": 4.3 },
+    { "id": "prod-958e8073-014", "name": "Basic Item 14", "category": "books", "price": 469.01, "stock": 49, "rating": 1.2 },
+    { "id": "prod-958e8073-015", "name": "Elite Item 15", "category": "home", "price": 167.86, "stock": 57, "rating": 2.5 },
+    { "id": "prod-958e8073-016", "name": "Pro Item 16", "category": "home", "price": 138.62, "stock": 177, "rating": 2 },
+    { "id": "prod-958e8073-017", "name": "Elite Item 17", "category": "books", "price": 383.27, "stock": 157, "rating": 3.3 },
+    { "id": "prod-958e8073-018", "name": "Standard Item 18", "category": "electronics", "price": 132.68, "stock": 77, "rating": 4.6 },
+    { "id": "prod-958e8073-019", "name": "Pro Item 19", "category": "clothing", "price": 193.06, "stock": 177, "rating": 4.1 },
+    { "id": "prod-958e8073-020", "name": "Basic Item 20", "category": "sports", "price": 328.44, "stock": 186, "rating": 2.2 }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 4,
+      "inventoryValue": 112473.77
+    }
+  }
+}
